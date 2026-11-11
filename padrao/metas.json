@@ -1,0 +1,144 @@
+{
+  "_sobre": "Metas medíveis do padrão de edição. Lidas por scripts/padrao.py contra o analysis.json do `sharingan analyze`. Ajuste aqui, não no código.",
+  "formatos": {
+    "vertical": {
+      "aspect": 0.5625,
+      "largura": 1080,
+      "altura": 1920,
+      "fps": 30
+    },
+    "feed": {
+      "aspect": 0.8,
+      "largura": 1080,
+      "altura": 1350,
+      "fps": 30
+    },
+    "youtube": {
+      "aspect": 1.7778,
+      "largura": 1920,
+      "altura": 1080,
+      "fps": 30
+    }
+  },
+  "audio_global": {
+    "pico_max_dbfs": -1.0,
+    "rms_min_dbfs": -24.0,
+    "rms_max_dbfs": -12.0
+  },
+  "pilares": {
+    "negocios": {
+      "nome": "Empreendedorismo e negócios",
+      "objetivo": "autoridade",
+      "formatos": [
+        "vertical",
+        "feed"
+      ],
+      "duracao_s": [
+        25,
+        75
+      ],
+      "asl_s": [
+        1.4,
+        3.0
+      ],
+      "plano_max_s": 5.0,
+      "cortes_por_min_min": 20,
+      "audio_classes": [
+        "music",
+        "music+sfx",
+        "sfx-only",
+        "silent"
+      ],
+      "temperatura": [
+        -6,
+        6
+      ],
+      "silencio_max": 0.08
+    },
+    "familia": {
+      "nome": "Vida de empresário e família",
+      "objetivo": "conexão",
+      "formatos": [
+        "vertical",
+        "feed"
+      ],
+      "duracao_s": [
+        15,
+        60
+      ],
+      "asl_s": [
+        2.0,
+        5.0
+      ],
+      "plano_max_s": 8.0,
+      "cortes_por_min_min": 10,
+      "audio_classes": [
+        "music",
+        "music+sfx",
+        "silent"
+      ],
+      "temperatura": [
+        0,
+        14
+      ],
+      "silencio_max": 0.25
+    },
+    "palestras": {
+      "nome": "Palestras (cortes)",
+      "objetivo": "prova de palco",
+      "formatos": [
+        "vertical",
+        "youtube"
+      ],
+      "duracao_s": [
+        30,
+        90
+      ],
+      "asl_s": [
+        2.0,
+        4.5
+      ],
+      "plano_max_s": 7.0,
+      "cortes_por_min_min": 12,
+      "audio_classes": [
+        "music",
+        "music+sfx",
+        "sfx-only",
+        "silent"
+      ],
+      "temperatura": [
+        -6,
+        8
+      ],
+      "silencio_max": 0.1
+    },
+    "palestra_inteira": {
+      "nome": "Palestra inteira (YouTube)",
+      "objetivo": "arquivo e busca",
+      "formatos": [
+        "youtube"
+      ],
+      "duracao_s": [
+        300,
+        7200
+      ],
+      "asl_s": [
+        3.0,
+        20.0
+      ],
+      "plano_max_s": 60.0,
+      "cortes_por_min_min": 3,
+      "audio_classes": [
+        "music",
+        "music+sfx",
+        "sfx-only",
+        "silent"
+      ],
+      "temperatura": [
+        -6,
+        8
+      ],
+      "silencio_max": 0.15
+    }
+  }
+}

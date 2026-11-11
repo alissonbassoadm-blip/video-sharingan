@@ -22,6 +22,19 @@ Most tools *describe frames* ("a slow zoom on a dashboard"). video-sharingan **m
 shot 3 · 4.63 s · truck-right+push-in · 53.1 px/s (2.76 %W/s) · +1.21 %/s · ease linear · never stops ✓ · cut mid-move ✓
 ```
 
+
+## Padrão de edição pessoal (`padrao/`)
+
+Manual, roteiros e checklist para posts e vídeos pessoais em três pilares (negócios, família, palestras),
+com metas medíveis em `padrao/metas.json`:
+
+```bash
+./sharingan analyze video-final.mp4 -o analise
+python3 scripts/padrao.py analise/analysis.json --pilar negocios   # familia | palestras | palestra_inteira
+```
+
+Comece por [`padrao/MANUAL.md`](padrao/MANUAL.md).
+
 ## What it measures
 
 | | measured | how |

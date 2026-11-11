@@ -120,6 +120,7 @@ with absolute values, re-render and re-compare. Before you call it done, also wa
 - `scripts/sharingan.py`: CLI entrypoint (`analyze`, `compare`, and per-stage commands)
 - `scripts/{probe,cuts,contact_sheet,camera_track,focus_map,look,audio,brief,compare}.py`: the stages, each runnable alone
 - `templates/brief.md`: brief format
+- `padrao/` + `scripts/padrao.py`: personal-content editing standard (PT-BR) and its pillar gates
 - `references/camera-language.md`: definitions, thresholds, and production traps
 - `examples/synthetic/`: generator plus ground truth for the self-test (`pytest tests/`)
 - `examples/linear-style-changelog/brief.md`: worked example with real measured numbers
