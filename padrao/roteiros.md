@@ -7,21 +7,21 @@ Copie o modelo, preencha os colchetes, grave. Tempo entre parênteses = alvo em 
 ## Negócios: "Lição de caso real"
 
 ```
-GANCHO (0–2 s)      [resultado ou erro com número] → "Perdi R$ ___ porque ___."
+CENA (0–2 s)        [situação concreta, caso real anonimizado] → "Terça, 7h, um cliente me liga: ___."
 PROBLEMA (2–8 s)    [o que a maioria faz] → "A maioria dos donos de empresa ___."
 PONTO 1 (8–18 s)    [o que eu fiz] + B-roll de [tela/lugar/pessoa]
-PONTO 2 (18–28 s)   [o que mudou, com número] + número grande na tela
+PONTO 2 (18–28 s)   [o que mudou] + número na tela só se for real
 LIÇÃO (28–35 s)     [uma frase que dá para salvar]
-CTA (35–40 s)       "Comenta [PALAVRA] que eu te mando [recurso]." | "Salva pra ___."
+CTA (35–40 s)       opcional: "Manda pra quem ___." | "Salva pra ___." (sem venda em conta pessoal)
 ```
 
 Outros ganchos que funcionam no pilar:
-- "Se eu começasse do zero hoje, faria só 3 coisas."
+- "O cliente achou que estava coberto. Não estava. O motivo: ___."
 - "O erro que quase quebrou minha empresa em [ano]."
 - "Quanto custa de verdade [contratar / abrir / escalar] ___."
 
 **Teste do roteiro:** se der para trocar seu nome pelo de qualquer outro empresário sem mudar uma
-palavra, o roteiro está genérico. Coloque um número, um nome de cliente (com permissão) ou um erro seu.
+palavra, o roteiro está genérico. Coloque uma cena, um detalhe técnico ou um erro seu. Caso de cliente sempre anonimizado; nunca invente número ou depoimento.
 
 ---
 

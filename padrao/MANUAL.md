@@ -78,19 +78,21 @@ câmera lenta). Não misture 24 e 30 fps na mesma timeline.
 | item | regra |
 |---|---|
 | Duração | 25–75 s (alvo: 40 s) |
-| Gancho | frase final do vídeo nos primeiros **1,5 s**, falada e escrita na tela. Sem "oi, pessoal", sem logo de abertura |
+| Gancho | **cena concreta** nos primeiros **1,5 s** (situação específica, caso real anonimizado), falada e escrita na tela. Nunca frase motivacional, "oi, pessoal" ou logo de abertura |
 | Ritmo | duração média do plano entre 1,4 e 3,0 s; **nenhum plano acima de 5 s** sem mudança (corte, punch-in ou B-roll) |
 | Cortes de silêncio | remova pausas maiores que 0,25 s; mantenha respiração natural (não corte a palavra) |
 | Punch-in | alterne enquadramento a cada 2–3 frases: 100 % → 115 % → 100 %. No máximo 130 % para não perder nitidez em 4K → 1080 |
 | B-roll | 1 inserção a cada 8–12 s: tela de planilha, número, escritório, equipe. Sempre ilustra a frase, nunca decora |
 | Legenda | dinâmica, 2–4 palavras por vez, palavra-chave na cor primária (no máximo 1 por bloco) |
-| Texto de apoio | números grandes na tela quando você falar um número ("R$ 2 mi", "3 anos") |
+| Texto de apoio | número grande na tela **só quando o número for real e verificável**. Nunca invente dado, preço ou resultado para o gancho ficar mais forte |
 | Música | instrumental, sem letra, 90–120 BPM, **−20 dB abaixo da voz** |
 | SFX | só em textos que entram (pop/click curto). No máximo 1 a cada 5 s. Sem "whoosh" em todo corte |
 | Cor | neutra; pele natural; contraste médio. Nada de LUT de cinema |
-| Fim | 1 CTA único e específico ("comenta PLANILHA que eu te mando"), não três |
+| Fim | no máximo 1 CTA, e só se for natural (compartilhar com quem precisa, salvar). Em conta pessoal, sem CTA de venda |
 
-**Estrutura:** gancho (0–2 s) → problema em 1 frase → 2 ou 3 pontos com exemplo real → virada/lição → CTA.
+**Estrutura:** cena (0–2 s) → o que deu errado ou surpreendeu → o que foi feito → lição em uma frase → CTA opcional.
+
+**Autoridade sem tempo de mercado:** não use "X anos de experiência". A autoridade vem da especificidade: a cena, o detalhe técnico, o erro que você viu de perto.
 
 ### 3.2 Vida de empresário e família: ritmo de conexão
 

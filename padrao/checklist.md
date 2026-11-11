@@ -13,9 +13,10 @@ Rode `scripts/padrao.py` primeiro (regras medíveis). Depois, marque o que a má
 - [ ] Assisti uma vez **no celular, sem som** e uma vez **com som**
 
 ## Negócios
-- [ ] Tem pelo menos 1 número, caso ou erro real (não é frase genérica)
+- [ ] Abre com cena concreta e tem caso ou erro real, anonimizado (não é frase genérica)
+- [ ] Nenhum número, preço, cobertura ou depoimento inventado
 - [ ] Nenhum plano parado acima de 5 s
-- [ ] Um único CTA, específico
+- [ ] No máximo um CTA, sem venda forçada em conta pessoal
 
 ## Família
 - [ ] Sem fachada, placa, escola, documento ou localização em tempo real no quadro
